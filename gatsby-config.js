@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: "My MDX Blog",
-    description: "A simple blog built with Gatsby and MDX",
-    url: "https://angry-bohr-9e84bc.netlify.app/",
+    title: "My design Blog",
+    description: "My work book",
+    url: "https://suspicious-banach-7e4856.netlify.app/",
     image:
       "https://angry-bohr-9e84bc.netlify.app/static/bd4cbff285d180b84bd97247076a1dd0/14b42/office.jpg",
-    twitterUsername: "@hunterbecton",
-    author: "Skillthrive",
+    twitterUsername: "@subeida91",
+    author: "Subeida",
   },
   plugins: [
     {
