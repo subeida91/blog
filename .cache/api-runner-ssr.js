@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/subeidaahmed/Desktop/simple-mdx-blog/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      plugin: require('/Users/subeidaahmed/Desktop/simple-mdx-blog copy/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
       options: {"plugins":[],"extensions":[".md",".mdx"],"gatsbyRemarkPlugins":[{"resolve":"gatsby-remark-images","options":{"maxWidth":1200}}]},
     },{
-      plugin: require('/Users/subeidaahmed/Desktop/simple-mdx-blog/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
+      plugin: require('/Users/subeidaahmed/Desktop/simple-mdx-blog copy/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":["roboto mono","muli:400,400i,700,700i"],"display":"swap"},
     },{
-      plugin: require('/Users/subeidaahmed/Desktop/simple-mdx-blog/gatsby-ssr'),
+      plugin: require('/Users/subeidaahmed/Desktop/simple-mdx-blog copy/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

@@ -3,7 +3,7 @@
     "develop": {
       "plugins": [
         {
-          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog copy/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         }
       ],
@@ -16,7 +16,7 @@
     "develop-html": {
       "plugins": [
         {
-          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog copy/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         }
       ],
@@ -29,7 +29,7 @@
     "build-html": {
       "plugins": [
         {
-          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog copy/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         }
       ],
@@ -42,7 +42,7 @@
     "build-javascript": {
       "plugins": [
         {
-          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/subeidaahmed/Desktop/simple-mdx-blog copy/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         }
       ],

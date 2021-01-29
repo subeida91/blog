@@ -25,12 +25,10 @@ const allPosts = ({ pageContext, data }) => {
       <FeatureImage />
       <Content>
         <H1 textAlign="center" margin="0 0 1rem 0">
-          Elit rhoncus tellus proin parturient.
+          Welcome to my work book
         </H1>
         <P color="dark2" textAlign="center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing
-          volutpat risus quis lorem pulvinar et pulvinar sit dictum. Eget orci,
-          orci in congue cursus nulla tincidunt facilisi.
+This space is mostly about my work or things that interest me. This can include but is not limited to technology, accessability and sometimes social science. 
         </P>
         {posts.map(post => (
           <ContentCard
